@@ -1,0 +1,155 @@
+
+text = """Good morning, everyone.  
+    Thank you for being here.  
+
+    We are here today to mark a historic milestone for Bangladesh—  
+    securing the championships at both the National High School Programming Contest  
+    and the International Olympiad in Informatics for 2026.  
+
+    The world looks at these trophies, the gold medals, and the headlines,  
+    and they see an overnight success.  
+    But today, I want to take you behind the curtain.  
+
+    When I was younger, I sat for the Cadet College written examinations.  
+    I pushed my limits and stood 57th in the national merit list.  
+    I thought my path was set.  
+
+    But during my viva, the Principal looked deep into my eyes.  
+    He told me gently, 'Son, you are not meant for the rigid walls of a cadet college.  
+    You are meant for the championship of the international arena.'  
+
+    At that age, it felt like a door closing.  
+    Today, I stand before you to tell you that his words became my truth.  
+    That truth wasn't bought with luck.  
+    It was forged in the fire of absolute pain, endless hours of upsolving,  
+    and the hidden tears behind every failing bug, every compilation error,  
+    and the heavy criticism of those who couldn't see the vision.  
+
+    Everyone loves the front-end glare of victory.  
+    No one sees the backend struggle.  
+    True programmers know that the moments of absolute exhaustion—  
+    staring at a screen at 3:00 AM dealing with Time Limit Exceeded errors—  
+    is the exact fuel that builds a champion.  
+
+    I did not build this path alone.  
+    Sitting right here on this stage with me today is my brother,  
+    my personal friend, and my co-founder, Jalees.  
+
+    Three years ago, Jalees and I looked at the coding landscape of our country  
+    and decided to build something revolutionary.  
+    We founded Olympiad Edge.  
+
+    We didn't start with a million users.  
+    We started with just 10 participants.  
+    We failed.  
+    We broke the system.  
+    We rebuilt it.  
+
+    We integrated advanced databases, dynamic pages, custom domains,  
+    and an automated ELO ranking system.  
+
+    Today, Olympiad Edge is proudly recognized as the 'CodeForces of Bangladesh.'  
+    It has grown into a global family of over 2 million learners worldwide.  
+
+    For just ten dollars a month, young minds master advanced data structures,  
+    full-stack architecture, and complex Olympiad mathematics—  
+    from number theory to combinatorics.  
+
+    Behind me stands a brilliant, super-talented team of 100 people,  
+    including our national programming squad,  
+    who carry this heavy infrastructure every day.  
+
+    But our journey didn't stop at education.  
+    Six years ago, when I was just twelve years old,  
+    under the brilliant guidance of my father, Md. Jobayer Hasan Shiplu,  
+    we laid the foundation for IDAI—'Imagine the Direction of Artificial Intelligence.'  
+
+    What started as a simple client-facing web development agency  
+    evolved into a massive, automated global brand.  
+
+    Jalees and I scaled IDAI into a dual-engine powerhouse.  
+    We embedded proprietary AI coding agents, high-tier hosting, and automated SEO.  
+    We expanded into managing backend systems of e-commerce clients globally.  
+
+    Today, when a client receives an order anywhere in the world,  
+    our system automatically processes it,  
+    synchronized perfectly with our shipping and docking logistics infrastructure  
+    powered by Milele Corps of Dubai.  
+
+    Bridging my software stack with my father’s lifelong expertise in textiles,  
+    we established IDAI Denim Industry.  
+    We automated denim production and manufactured fashion items on a global scale.  
+
+    Handling the immense, real-time pressure of over a million active users  
+    across our textile and web infrastructures  
+    yields a dual revenue engine of over 1 million USD per month.  
+
+    I do not share these numbers to flex.  
+    I share this because next year, I leave for MIT.  
+    And I want every young person in Bangladesh to know  
+    that an 18-year-old from Class 11 at Notre Dame College built this from scratch.  
+
+    People often ask me about wealth.  
+    For reasons of security, privacy, and focus,  
+    I choose to keep our exact financials private.  
+    True success is silent.  
+
+    My real drive doesn't come from a bank statement.  
+    It comes from the strategy I learn playing tactical chess,  
+    holding a 2105 ELO on Chess.com.  
+
+    It comes from my spiritual foundation as a full Qur-an Hafiz  
+    who performed Hajj back in 2016.  
+
+    Our massive profits are not spent on flashy lifestyles.  
+    Supported by our corporate partners, VivaSoft and Brain Station 23,  
+    we channel these resources directly into philanthropy.  
+
+    We fund programs for low-earning programmers worldwide,  
+    and provide silent aid to orphans and oppressed people.  
+    We do not do this to be famous.  
+    We do this purely for the sake of Almighty God.  
+
+    That quiet, spiritual purpose is the ultimate fuel  
+    that forces me to wake up every day and outwork everyone else.  
+
+    Finally, I want to deliver a raw, unfiltered message  
+    to the beginners, the youth, and the dreamers watching today.  
+
+    Building an empire of millions at nineteen years old is not a game.  
+    It was an unbelievable crucible.  
+    The world you are looking for will demand heavy failures, immense pain,  
+    and severe difficulties.  
+
+    Let me give you a serious reality check.  
+    The motivational speakers you see scrolling through TikTok or Instagram  
+    are completely useless.  
+    Turn them off.  
+
+    They are selling you cheap dopamine.  
+    They make you feel like a winner just by imagining success.  
+    But the mind that gets high on imagination  
+    will never have the grit to do the grunt work required to achieve it.  
+
+    True champions never look for motivation.  
+    True champions rely on absolute, uncompromising discipline.  
+
+    There are incredible mentors teaching beginners to remain consistent.  
+    They are doing beautiful, necessary work.  
+    Listen to them, not the dopamine peddlers.  
+
+    Remember this rule: every single second has a specific job.  
+    Your only task is to give your absolute best effort  
+    to your goal in this exact second.  
+
+    As you try to increase your potential, the world will criticize you.  
+    People will mock your late nights, your failures, and your obsession.  
+
+    Do not look back at them.  
+    Do not argue.  
+    Keep your head down, suffer in silence, and execute your code.  
+
+    You will look down at them only when you are standing at your highest position.  
+
+    Thank you very much.  
+    I am now open to questions from the media."""
